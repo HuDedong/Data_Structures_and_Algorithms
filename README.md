@@ -8,9 +8,9 @@ Reference: https://github.com/youngyangyang04/leetcode-master
 
 ---
 
-基于 “LeetCode ” 网站的学习数据结构和算法的 Java 语言库。
+基于 “LeetCode ” 网站的学习数据结构和算法的 Java 语言库
 
-推荐顺序： 数组、链表、哈希表、字符串、双指针法、栈和队列、二叉树、回溯算法、贪心算法、动态规划、单调栈、图论、额外题目。
+推荐顺序： 数组、链表、哈希表、字符串、双指针法、栈和队列、二叉树、回溯算法、贪心算法、动态规划、单调栈、图论、额外题目
 
 强烈建议在使用本资源库练习之前阅读 *hello 算法*。链接是 “https://www.hello-algo.com”
 
