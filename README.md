@@ -1,4 +1,4 @@
-A Java language repository for learning data structures and algorithms based on "LeetCode" websites.
+A Java / C++ language repository for learning data structures and algorithms based on "LeetCode" websites.
 
 Recommended Order: Arrays, Chained Tables, Hash Tables, Strings, Double Pointer Method, Stacks and Queues, Binary Trees, Backtracking Algorithms, Greedy Algorithms, Dynamic Programming, Monotonic Stacks, Graph Theory, Extra Topics.
 
@@ -8,7 +8,7 @@ Reference: https://github.com/youngyangyang04/leetcode-master
 
 ---
 
-基于 “LeetCode ” 网站的学习数据结构和算法的 Java 语言库
+基于 “LeetCode ” 网站的学习数据结构和算法的 Java / C++ 语言库
 
 推荐顺序： 数组、链表、哈希表、字符串、双指针法、栈和队列、二叉树、回溯算法、贪心算法、动态规划、单调栈、图论、额外题目
 
